@@ -7,5 +7,7 @@ public class Sample {
 		String s="Sowmiya";
 		System.out.println(a);
 		System.out.println(s);
+		char ch='s';
+		System.out.println(ch);
 	}
 }
